@@ -1,6 +1,6 @@
 # MAPA_DE_HABILIDADES
 
-# Mapa de Habilidades — Junior
+# Mapa de Habilidades
 
 **Resumo**  
 Formado em **Ciências da Computação**. Competências em **Java, Python, SQL**, administração de servidores Linux, criação e gestão de sites, segurança web, serviços de e‑mail e DNS. Conhecimento em **investimentos, crédito e serviços bancários**. Foco atual em **especialização em Inteligência Artificial** para aproveitar demandas crescentes em IA e fintech.
